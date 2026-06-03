@@ -1,0 +1,19 @@
+# Normalize line endings; Git decides text vs binary by default
+* text=auto
+
+# Source and config files are text
+*.cs       text
+*.csproj   text
+*.xml      text
+*.md       text
+*.json     text
+*.bat      text eol=crlf
+*.sln      text eol=crlf
+
+# Binary assets — never normalize
+*.dll      binary
+*.pdb      binary
+*.png      binary
+*.jpg      binary
+*.wav      binary
+*.ogg      binary

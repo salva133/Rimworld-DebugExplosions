@@ -1,0 +1,5 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\DebugExplosions\Assemblies\DebugExplosions.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\DebugExplosions\Source\obj\Release\DebugExplosions.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\DebugExplosions\Source\obj\Release\DebugExplosions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\DebugExplosions\Source\obj\Release\DebugExplosions.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\DebugExplosions\Source\obj\Release\DebugExplosions.dll
